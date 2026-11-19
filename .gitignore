@@ -1,0 +1,25 @@
+# Build artifacts
+target/
+**/target/
+project/target/
+project/project/
+*.class
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.venv
+venv/
+ENV/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.log
+.DS_Store
+Thumbs.db
+.metals/
+.bloop/
+.bsp/
